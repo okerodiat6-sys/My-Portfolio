@@ -2,6 +2,7 @@
 
 Welcome to the personal portfolio of Oke Rodiat, a UI/UX Designer and Web Developer. This portfolio showcases my skills, projects, and experiences in the field of web design and development.
 
+View the portfolio at: [OKE RODIAT Portfolio](https://okerodiat6-sys.github.io/My-Portfolio/)
 ## Project Structure
 
 The project is organized as follows:
